@@ -1,6 +1,6 @@
 # Sports Data Visualization for the Web 📊⚽📈  
 **Presented at Techorama 2025 – May 28, 16:00 - 17:00, Room 14**  
-**Speaker:** Courtney Yatteau ([@cnyatteau](https://github.com/c_yatteau))
+**Speaker:** Courtney Yatteau
 
 ## 📌 Session Description
 
