@@ -22,7 +22,7 @@ Each demo highlights different aspects of visualizing sports data—from time-se
 ## 📊 Slides
 
 Slides will be uploaded here after the session:  
-🔗 [**View the Slides**](#)
+🔗 [**View the Slides**](https://github.com/cyatteau/techorama-2025-data-viz-sports/blob/main/Final-Slides.pdf)
 
 ## 🛠️ Tech Stack
 
